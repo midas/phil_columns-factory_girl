@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = PhilColumns::FactoryGirl::VERSION
   spec.authors       = ["C. Jason Harrelson (midas)"]
   spec.email         = ["jason@lookforwardenterprises.com"]
-  spec.summary       = %q{Adapters for factory_girl gem.}
-  spec.description   = %q{Adapters for factory_girl gem.  See README for more details.}
-  spec.homepage      = ""
+  spec.summary       = %q{Phil_columns adapter for factory_girl gem.}
+  spec.description   = %q{Phil_columns adapter for factory_girl gem.  See README for more details.}
+  spec.homepage      = "https://github.com/midas/phil_columns-factory_girl"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
